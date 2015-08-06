@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\bin\Debug\Tutorial6.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.AlarmForm.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.Properties.Resources.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial6\Tutorial6\obj\Debug\Tutorial6.pdb

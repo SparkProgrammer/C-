@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\bin\Debug\Lesson 5 - Debug GUI Errors.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\bin\Debug\Lesson 5 - Debug GUI Errors.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\bin\Debug\Lesson 5 - Debug GUI Errors.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson 5 - Debug GUI Errors.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson_5___Debug_GUI_Errors.MainForm.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson_5___Debug_GUI_Errors.Properties.Resources.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson 5 - Debug GUI Errors.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson 5 - Debug GUI Errors.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\files\Lesson 5 - Debugging\Lesson 5 - Debug GUI Errors\Lesson 5 - Debug GUI Errors\obj\Debug\Lesson 5 - Debug GUI Errors.pdb

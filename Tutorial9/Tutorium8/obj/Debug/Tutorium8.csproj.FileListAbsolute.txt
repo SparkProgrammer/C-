@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\bin\Debug\Tutorium8.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\bin\Debug\Tutorium8.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\bin\Debug\Tutorium8.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\obj\Debug\Tutorium8.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\obj\Debug\Tutorium8.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorium8\Tutorium8\obj\Debug\Tutorium8.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial9\Tutorium8\bin\Debug\Tutorium8.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial9\Tutorium8\obj\Debug\Tutorium8.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial9\Tutorium8\obj\Debug\Tutorium8.pdb

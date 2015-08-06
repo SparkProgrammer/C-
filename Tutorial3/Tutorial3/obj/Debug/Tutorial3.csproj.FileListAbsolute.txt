@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\bin\Debug\Tutorial3.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial3\Tutorial3\obj\Debug\Tutorial3.pdb

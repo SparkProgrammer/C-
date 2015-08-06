@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.Form1.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.Properties.Resources.resources
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+C:\Users\Martin\Desktop\aktuell\c# tutorium\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
